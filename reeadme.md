@@ -200,8 +200,8 @@
 #### en Python es mucho mas practico crear algoritmos debido a que el lenguaje de programación es mucho mas corto, en este caso utilizamos un bucle "while" para poder elaborar nuestro menú y dentro de el nuestro ciclo for triplemente anidado.
 ---
  ### Capturas de pantalla del código fuente en Python:
-- ![captura](https://drive.google.com/file/d/1UJzVpxJgQVjGD0zz6gk_2dtF_fCSqfec/view?usp=sharing)
-- ![Captura 2](https://drive.google.com/file/d/1TtUt6ECH-33B8pwSnqkbrob9w0q_r3gi/view?usp=sharing)
+- https://drive.google.com/file/d/1UJzVpxJgQVjGD0zz6gk_2dtF_fCSqfec/view?usp=sharing
+- https://drive.google.com/file/d/1TtUt6ECH-33B8pwSnqkbrob9w0q_r3gi/view?usp=sharing
 
 Como  podemos darnos cuenta en los tres lenguajes de programación fue necesario declarar variables,  el uso de un ciclo while, switch y segun, para la elaboración del menú.
 
@@ -635,6 +635,7 @@ En el caso de que el jugador elija salir (caso 3), el juego termina. Si el jugad
 En en siguiente enlace se podrá visualizar la ejecución del código fuente en YouTube: [enter link description here](https://youtu.be/ZBZ0HXF7rPc)
 
 ----
+Tambien aqui se podra apreciar en el siguiente enlace, la ejecucion de los primeros programas [enter link description here](https://www.youtube.com/watch?v=2d3knPejp94)
 Integrantes del grupo y aportes: 
 
  - Dalila Zacarias-------------------50% 
