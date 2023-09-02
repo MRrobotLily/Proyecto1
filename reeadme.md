@@ -75,9 +75,9 @@
   ---
 
   ### Caputaras de pantalla del codigo fuente en Pseint:
-- ![Captura](https://drive.google.com/file/d/1Vxqf2t9Lrxxw8Oao6fX6xmnKAUcLVALv/view?usp=sharing)
+- https://drive.google.com/file/d/1Vxqf2t9Lrxxw8Oao6fX6xmnKAUcLVALv/view?usp=sharing
 
--![captura](https://drive.google.com/file/d/1D9vELjkoAMutjuEjZ2VNwbjVOvIZpen-/view?usp=sharing)
+- https://drive.google.com/file/d/1D9vELjkoAMutjuEjZ2VNwbjVOvIZpen-/view?usp=sharing
 
 
 .
@@ -153,8 +153,8 @@
 ---
 
  ### Caputaras de pantalla del código fuente en C++:
-- ![Captura](https://drive.google.com/file/d/1ji0dwQSaB5OWYXuFfZhvlCeqMH8dhfN2/view?usp=sharing)
-- ![Captura 2](https://drive.google.com/file/d/14rgJ62r8aurCiIaWkLdXOYUATMZcj-Xy/view?usp=sharing)
+- https://drive.google.com/file/d/1ji0dwQSaB5OWYXuFfZhvlCeqMH8dhfN2/view?usp=sharing
+- https://drive.google.com/file/d/14rgJ62r8aurCiIaWkLdXOYUATMZcj-Xy/view?usp=sharing
 - ---
 ### Codigo fuente en Phyton
     import os
